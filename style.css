@@ -1,0 +1,31 @@
+body {
+    background-color: #f3dbc3;
+    /* Cor de fundo atualizada */
+    font-family: Arial, sans-serif;
+    /* Fonte */
+}
+
+h1 {
+    color: #000000;
+    /* Cor do título */
+    text-align: center;
+    /* Centraliza o título */
+}
+
+p {
+    font-size: 1.2em;
+    /* Tamanho da fonte */
+    line-height: 1.5;
+    /* Espaçamento entre linhas */
+}
+
+footer {
+    text-align: center;
+    /* Centraliza o texto do rodapé */
+    margin-top: 20px;
+    /* Margem superior */
+    font-size: 0.9em;
+    /* Tamanho da fonte do rodapé */
+    color: #6c757d;
+    /* Cor do texto do rodapé */
+}
